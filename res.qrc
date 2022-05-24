@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/worlds">
+        <file>world.txt</file>
+    </qresource>
+</RCC>

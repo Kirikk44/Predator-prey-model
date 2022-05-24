@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>world.txt</file>
+    </qresource>
+    <qresource prefix="/worlds"/>
+</RCC>
